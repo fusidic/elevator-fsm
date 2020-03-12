@@ -1,0 +1,11 @@
+a98f31ffc7e9a462941bb5dfbb0f8a34e83eb1bf		branch 'ci-fixes' of https://github.com/vishvananda/netlink
+3f4d34e9e75f5de54e2da0dd27c470983f6e2c8b		branch 'filter' of https://github.com/vishvananda/netlink
+05415088e55057582627d475b21773f52047e73f		branch 'fix-darwin' of https://github.com/vishvananda/netlink
+6b9888917ae4df4a6e2a792edc0b6cdf25608f84		branch 'gact' of https://github.com/vishvananda/netlink
+8401d5708a4a8091768994f219d49d9b6661c071		branch 'iptun-fix' of https://github.com/vishvananda/netlink
+c79a4b7b40668c3f7867bf256b80b6b2dc65e58e		branch 'master' of https://github.com/vishvananda/netlink
+d36ebb6eebd363d35e7eb54d49aa16bd934b2f28		branch 'safe-htb' of https://github.com/vishvananda/netlink
+41009d533ba0788a139b0b6ef38923a23b3766d3		branch 'v1.0.0' of https://github.com/vishvananda/netlink
+5b7621d2b386f915a3bbe7c9a1ba6ba22ec3e60d		branch 'vxlanport' of https://github.com/vishvananda/netlink
+a2ad57a690f3caf3015351d2d6e1c0b95c349752		tag 'v1.0.0' of https://github.com/vishvananda/netlink
+f049be6f391489d3f374498fe0c8df8449258372		tag 'v1.1.0' of https://github.com/vishvananda/netlink

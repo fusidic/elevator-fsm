@@ -1,0 +1,15 @@
+e8ba44dd4237502994511bfd6bcb9101108ba437		branch 'LrsK-minor-cleaning' of https://github.com/buger/jsonparser
+e22e46d651e9d3e4b56e154a0928fb61c485cf37		branch 'alexcesaro-get_number_fix' of https://github.com/buger/jsonparser
+87f0f2f564b58c517791b90f4840bac99d20eddc		branch 'easy-json' of https://github.com/buger/jsonparser
+cb38c5ec4c03ec4dc0e5278b88a8560cf53142f6		branch 'get-string' of https://github.com/buger/jsonparser
+fe3ac274dcbbb741ca29d72717e85bd3973e2228		branch 'key-offsets' of https://github.com/buger/jsonparser
+a1ea380204137a66183a673d67bde6e5ede027a7		branch 'key-search' of https://github.com/buger/jsonparser
+1a29609e0929ccd5666069e2e7213c2c69fa4ac2		branch 'master' of https://github.com/buger/jsonparser
+47e9a98646fe7482b6a8de922c5bed294a90a128		branch 'patch-1' of https://github.com/buger/jsonparser
+4e16fcd2af07254ed2bee559b965d25d4d61bdac		branch 'pendo-io-cleanup-trailingbracket' of https://github.com/buger/jsonparser
+e2a6695dfdc3249d5ac4fdaeb7524062cb13dc18		branch 'pendo-io-parse-prim-val-fastbytes' of https://github.com/buger/jsonparser
+20c5ccd6e1d8363c78e395076970543d8d55a7e6		branch 'revert-21-fix-stringend-escaping' of https://github.com/buger/jsonparser
+d5e9790e34942613a007d9f89c6399679452acf5		branch 'support-for-array-idx-keys' of https://github.com/buger/jsonparser
+02d40f49b087632bbcb92bae8b637d8feef1332e		branch 'unescaped-keys' of https://github.com/buger/jsonparser
+d63aedd4316018fd6a22daccb9d32bd8a786e740		branch 'unescaped-keys-v2' of https://github.com/buger/jsonparser
+f88695e66a748beda81be58a4d6005e40c4eab80		branch 'unescaped-keys-v3' of https://github.com/buger/jsonparser
